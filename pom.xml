@@ -4,7 +4,7 @@
 
     <groupId>org.keycloak</groupId>
     <artifactId>keycloak-header-conditional-authentication-provider</artifactId>
-    <version>24.0.0</version>
+    <version>26.7.0</version>
     <packaging>jar</packaging>
     <name>KeyCloak: HTTP header conditional authentication Provider</name>
     <description>KeyCloak: HTTP header conditional authentication Provider</description>
